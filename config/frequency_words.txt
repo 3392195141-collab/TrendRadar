@@ -1,104 +1,37 @@
-
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-
-
-
-
-
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft   微软
-
-英伟达
-NVIDIA   英伟达
-黄仁勋
-
-AMD
-
-谷歌
-google   谷歌
-gemini   双子座
-deepmind
-教育
-chatgpt
-openai
-sora   
-education
-claude   克劳德。
-Anthropic   人为
-语言学
-iphone
-ipad
-mac
-ios
+青岛
+青岛教师
+山东
+重庆
+教师
 汉语言
-ai
-!gai
-人工智能
-创意写作
-自动驾驶
+就业
+AI
+教育
+生物
+英语
+文学
+语言学
+比较文学
+NIVIDA
+OPENAI
+Google
+金融
+网文
+agent
+多模态
+金融
+经济
+中国高校
+中国大学
+古建筑
 
-机器人
 
-国产
-中国
 
-美国
-日本
-韩国
 
-芯片
-光刻机
 
-科技
 
-核能
 
-水电站
-雅鲁藏布江
 
-新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+
+
