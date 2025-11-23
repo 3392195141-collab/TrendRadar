@@ -1,5 +1,4 @@
-胖东来
-于东来
+
 
 DeepSeek
 梁文锋
@@ -26,19 +25,11 @@ DJI
 黑神话
 冯骥
 
-影之刃零
-梁其伟
 
-哪吒
-饺子
-杨宇
-!车
-!餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
+
+
+
 
 申奥
 
@@ -53,35 +44,35 @@ bytedance
 马斯克
 
 微软
-Microsoft
+Microsoft   微软
 
 英伟达
-NVIDIA
+NVIDIA   英伟达
 黄仁勋
 
 AMD
 
 谷歌
-google
-gemini
+google   谷歌
+gemini   双子座
 deepmind
-
+教育
 chatgpt
 openai
-sora
-
-claude
-Anthropic
-
+sora   
+education
+claude   克劳德。
+Anthropic   人为
+语言学
 iphone
 ipad
 mac
 ios
-
+汉语言
 ai
 !gai
 人工智能
-
+创意写作
 自动驾驶
 
 机器人
